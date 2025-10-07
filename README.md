@@ -1,6 +1,3 @@
-### **README - Questão 2: Plataforma de Pagamentos**
-
-```markdown
 # Questão 2: Plataforma de Pagamentos com Padrão Factory Method
 
 Este projeto implementa um sistema de processamento de pagamentos que suporta múltiplos meios (Cartão de Crédito, Boleto e PIX), utilizando o padrão de projeto **Factory Method**.
